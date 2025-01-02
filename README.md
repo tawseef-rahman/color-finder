@@ -1,6 +1,6 @@
 # ColorFinder
 
-ColorFinder is an application that allows you to upload an image and extract the colors from the image to a color palette.
+ColorFinder is an application that allows a user to upload an image and extract the colors from the image to a color palette.
 
 The application is simple to use.
 
